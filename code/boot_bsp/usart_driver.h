@@ -2,7 +2,7 @@
  * usart_driver.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef BOOT_BSP_USART_DRIVER_H_

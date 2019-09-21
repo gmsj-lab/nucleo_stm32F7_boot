@@ -2,7 +2,7 @@
  * io_redirection.cpp
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 #include <io_redirection.h>
 #include <usart_driver.h>

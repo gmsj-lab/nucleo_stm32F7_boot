@@ -2,7 +2,7 @@
  * util.h
  *
  *  Created on: 8 sept. 2019
- *      Author: gilles
+ *      Author: gmsj
  */
 
 #ifndef BOOT_BSP_UTILS_H_
